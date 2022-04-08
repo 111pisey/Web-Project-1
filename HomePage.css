@@ -1,0 +1,95 @@
+.main-Sections{
+     margin: 0 auto;
+     max-width: 1200px;
+     background-color: aqua;
+     padding: 20px;
+     border-radius: 30px;
+}
+
+.main-Sections-background{
+     background-color: gray;
+     padding: 30px;
+     border-radius: 10px;
+}
+
+.image
+img{
+     border-radius: 30px;
+     width: 400px;
+}
+
+.main-text{
+     padding-right: 10%;
+}
+
+.main-text
+h2{
+     text-align: center;
+}
+
+.main-text
+p{
+     max-width: 500px;
+     font-size: 20px;
+     padding-bottom: 20px;
+}
+
+#main1-join{
+     text-decoration: none;
+     color: black;
+     padding: 20px 40px;
+     border-radius: 50px;
+     background-color: white;
+}
+#main1-join:hover{
+     color: red;
+     transition: 0.4s;
+}
+
+.Report-class{
+     margin: 0 auto;
+     border-radius: 30px;
+     background-color: coral;
+}
+
+.Report-block{
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     background-color: chocolate;
+     border-radius: 30px;
+}
+
+.Reviews{
+     max-width: 600px;
+     max-height: 500px;
+     background-color: pink;
+     border-radius: 30px;
+}
+
+.Reviews-text{
+     max-width: 300px;
+     text-align: center;
+}
+
+.Reviews-text h2{
+     text-align: center;
+}
+
+.Review-Pic
+img{
+     max-width: 100px;
+     border-radius: 100%;
+}
+
+.Review-Pic{
+     text-align: center;
+     padding-top: 20px;
+}
+
+#review-title{
+     padding-top: 15px;
+     text-align: center;
+}
