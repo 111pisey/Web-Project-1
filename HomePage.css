@@ -103,6 +103,9 @@ img{
 
 .subject-norm-flex{
      display: flex;
+     justify-content: space-evenly;
+     padding-top: 100px;
+     padding-bottom: 100px;
 }
 
 .subject-photo img{
@@ -128,3 +131,6 @@ img{
      font-size: 18px;
 }
 
+.ptt-top-20{
+     padding-top: 20px;
+}
